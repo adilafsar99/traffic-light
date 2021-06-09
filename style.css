@@ -1,0 +1,26 @@
+.traffic-signal-div {
+				position: relative;
+				text-align: center;
+				margin-top: 50px;
+}
+
+#red-light-off {
+				width: 160px;
+				position: absolute;
+				top: 105px;
+				left: 400px;
+}
+
+#yellow-light-off {
+				width: 160px;
+				position: absolute;
+				top: 262px;
+				left: 400px;
+}
+
+#green-light-off {
+				width: 160px;
+				position: absolute;
+				top: 410px;
+				left: 400px;
+}
